@@ -76,8 +76,3 @@ All dependencies listed in `requirements.txt`
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Author:** Deepansh
-
-**Goal:** Resume-ready portfolio project for churn prediction using classic ML workflows.
-
